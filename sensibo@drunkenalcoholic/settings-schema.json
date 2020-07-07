@@ -1,0 +1,27 @@
+{
+	"head": {
+		"type": "header",
+		"description": "Settings - Sensibo Monitor!)"
+	},
+	"refreshInterval": {
+		"type": "spinbutton",
+		"default": 120,
+		"min": 10,
+		"max": 3600,
+		"step": 10,
+		"units": "seconds",
+		"description": "Refresh interval(seconds)"
+	},
+	"apikey": {
+		"type": "entry",
+		"default": "INSERT API KEY",
+		"description": "API key:",
+		"tooltip": "insert sensibo api key"
+	},
+	"poduuid": {
+		"type": "entry",
+		"default": "INSERT POD UUID",
+		"description": "Pod uuid:",
+		"tooltip": "insert sensibo pod uuid"
+	}
+}
