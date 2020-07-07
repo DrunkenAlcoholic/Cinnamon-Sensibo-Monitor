@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512pt"
+   viewBox="0 -67 512.001 512"
+   width="512pt"
+   version="1.1"
+   id="svg4534"
+   sodipodi:docname="budgie-sensibo-monitor-icon-on.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata4540">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4538" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     id="namedview4536"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="278.66882"
+     inkscape:cy="393.80691"
+     inkscape:window-x="0"
+     inkscape:window-y="43"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4534"
+     inkscape:object-paths="false" />
+  <path
+     style="fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:1.02290714"
+     d="M 255.84784,-65.905668 A 136.70456,136.70456 0 0 0 119.14189,70.798279 136.70456,136.70456 0 0 0 158.03634,166.28027 120.43021,120.43021 0 0 0 121.31358,160.48847 120.43021,120.43021 0 0 0 0.88227412,280.91979 120.43021,120.43021 0 0 0 114.40295,401.00351 h -2.21563 l 2.26559,0.14983 0.009,-0.14784 a 120.43021,120.43021 0 0 0 6.85269,0.34364 120.43021,120.43021 0 0 0 8.8805,-0.34563 h 253.27742 a 120.43021,120.43021 0 0 0 6.91062,0.34563 120.43021,120.43021 0 0 0 8.88051,-0.34563 h 0.24375 l -0.001,-0.0301 A 120.43021,120.43021 0 0 0 510.81229,280.91975 120.43021,120.43021 0 0 0 390.38296,160.48842 120.43021,120.43021 0 0 0 353.29857,166.49601 136.70456,136.70456 0 0 0 392.55179,70.798279 136.70456,136.70456 0 0 0 255.84784,-65.905668 Z"
+     id="path814"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30.00005722px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000143"
+     x="127.08184"
+     y="306.05374"
+     id="text825"><tspan
+       sodipodi:role="line"
+       x="127.08184"
+       y="306.05374"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:550.0010376px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';stroke-width:0.75000143"
+       id="tspan827">s</tspan></text>
+</svg>
