@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 
 import requests
@@ -12,8 +11,8 @@ APIKEY = ''
 DEVICEID = ''
 ac_state = ''
 
-#APIKEY = 'du9lHnKCFDEVtpUpgiAsCeKQCJmAp2' #change to your own API key
-#DEVICEID = 'DAqXdYTv' # change to device ID
+#APIKEY =  #change to your own API key
+#DEVICEID = # change to device ID
 
 
 # Sensibo API
