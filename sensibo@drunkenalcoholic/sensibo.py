@@ -5,14 +5,11 @@ import json
 import sys
 
 
-# Variables until I can get Budgie setting panel working
+# Variables
 SERVER = 'https://home.sensibo.com/api/v2'
 APIKEY = '' 
 DEVICEID = ''
 ac_state = ''
-
-#APIKEY =  #change to your own API key
-#DEVICEID = # change to device ID
 
 
 # Sensibo API
